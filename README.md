@@ -38,24 +38,3 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-
-<!-- Badges for Selenium, Java, Postman, Jira, Trello -->
-<a href="https://www.selenium.dev/">
-    <img src="https://img.shields.io/badge/-Selenium-05122A?style=for-the-badge&logo=selenium">
-</a>
-<a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java">
-</a>
-<a href="https://www.postman.com/">
-    <img src="https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=postman">
-</a>
-<a href="https://www.atlassian.com/software/jira">
-    <img src="https://img.shields.io/badge/-Jira-05122A?style=for-the-badge&logo=jira">
-</a>
-<a href="https://trello.com/">
-    <img src="https://img.shields.io/badge/-Trello-05122A?style=for-the-badge&logo=trello">
-</a>
-
-
