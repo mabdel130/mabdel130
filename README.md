@@ -9,13 +9,10 @@
 <p align="center">
 <a href="https://github.com/your-username/your-repository"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Testing%20Enthusiast;Quality%20Assurance%20Advocate&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22"></a>
 </p>
-🏢 I'm a Software Testing Engineer.
-
-👨‍💻 As a software testing , I'm constantly learning and exploring new technologies to improve my skills.
-
-💬 Ask me about my experience with Automation Testing,Manual Testing, ApiTesting, Java.
-
-⚡Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 🏢 I'm a Software Testing Engineer 
+- 👨‍💻 As a software Testing, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with Automation Testing, API, SDLC, BugLife cycle.
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
 
