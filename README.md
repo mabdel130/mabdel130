@@ -22,13 +22,13 @@
 
 <a href="https://www.buymeacoffee.com/ Mohamed Abd Elghany" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-### 🛠 &nbsp;Tech Stack ;most used Tools
+### 🛠 &nbsp;Tech Stack ;most used Tools&Languages
 [![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)](https://www.selenium.dev/)
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)](https://www.java.com/)
 [![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)](https://www.postman.com/)
 [![SQL Testing](https://img.shields.io/badge/-SQL%20Testing-05122A?style=flat&logo=sql)](https://en.wikipedia.org/wiki/SQL)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mabdel130&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
 <br>
 <a href="https://komarev.com/ghpvc/?username=mabdel130&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=mabdel130&style=for-the-badge">
