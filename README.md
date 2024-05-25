@@ -9,8 +9,7 @@
 <p align="center">
 <a href="https://github.com/your-username/your-repository"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Testing%20Enthusiast;Quality%20Control%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22"></a>
 </p>
-
-- 🏢 I'm a Software Testing Engineer
+- 🏢 I'm a Software Testing Engineer.
 - 👨‍💻 Asa software Testing, I'm exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Automation Testing, API, SDLC,STLC.
 
