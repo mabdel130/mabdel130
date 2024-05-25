@@ -26,8 +26,7 @@
 [![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)](https://www.selenium.dev/)
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)](https://www.java.com/)
 [![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)](https://www.postman.com/)
-[![SQL Testing](https://img.shields.io/badge/-SQL%20Testing-05122A?style=flat&logo=sql)](https://en.wikipedia.org/wiki/SQL)
-
+[![SQL Testing](https://img.shields.io/badge/-SQL%20-05122A?style=flat&logo=sql)](https://en.wikipedia.org/wiki/SQL)
 
 <br>
 <a href="https://komarev.com/ghpvc/?username=mabdel130&style=for-the-badge">
